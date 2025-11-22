@@ -42,11 +42,13 @@ PC with LT Spice Software
 ## THEORITICAL CALCULATION:
 ![TABULATION(EXP2)](https://github.com/user-attachments/assets/26ecfcd3-d269-4f2c-81d5-1973aafae2b1)
 ## OUTPUTS:
-INPUT
+INPUT WAVEFORM
+
 <img width="733" height="503" alt="INPUT(EXP2)" src="https://github.com/user-attachments/assets/62b15585-f2d8-4538-afb2-57ec3550ce29" />
 
 
-OUTPUT
+OUTPUT WAVEFORM
+
 <img width="696" height="554" alt="OUTPUT(EXP2)" src="https://github.com/user-attachments/assets/6a5ae298-1d5c-4645-9d2e-4fbec9b9afaf" />
 
 
